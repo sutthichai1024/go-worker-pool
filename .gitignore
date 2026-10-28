@@ -1,0 +1,5 @@
+.DS_Store
+.env
+*.test
+*.out
+/go-worker-pool
